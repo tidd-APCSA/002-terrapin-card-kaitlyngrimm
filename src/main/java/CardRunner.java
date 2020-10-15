@@ -17,5 +17,12 @@ public class CardRunner {
         cardBrian.loadMoney(50);
         System.out.println("Billy: " + cardBilly);
         System.out.println("Brian: " + cardBrian);
+
+
+        System.out.println(cardBrian.getBalance());
+
+
+
+
     }
 }
