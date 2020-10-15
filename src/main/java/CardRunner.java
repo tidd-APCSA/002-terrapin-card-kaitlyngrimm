@@ -1,7 +1,8 @@
 public class CardRunner {
     public static void main(String args[]){
         // ☕
-        //hello
+        TerrapinCard card = new TerrapinCard(50);
+        System.out.println(card);
 
     }
 }
