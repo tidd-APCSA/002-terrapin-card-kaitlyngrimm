@@ -32,7 +32,7 @@ public void loadMoney(double amount){
 }
 
 public double getBalance(){
-  return this.balance();
+  return this.balance;
 }
 
 }
